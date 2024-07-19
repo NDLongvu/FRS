@@ -1,0 +1,20 @@
+Mở Registry với đường dẫn:
+HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Word/…
+Ta có thể tìm thấy Thư mục Reading Locations bao gồm đường dẫn tới các thư mục hoặc vị trí mà chương trình sử dụng để lưu trữ tài liệu mới
+ ![image](https://github.com/user-attachments/assets/01246022-7eaa-486e-820a-386c80393add)
+
+Hay thư mục file MRU: lưu trữ các file word được mở gần đây
+ ![image](https://github.com/user-attachments/assets/510a1c1f-4f9b-40e4-aa27-c05ca610d210)
+
+
+Với đường dẫn HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU
+Ta có thể tìm được bao gồm các lệnh hoặc đường dẫn tới các chương trình đã được chạy, giúp người dùng dễ dàng truy cập và khởi chạy lại các ứng dụng mà họ đã sử dụng gần đây mà không cần phải tìm kiếm qua lại.
+ ![image](https://github.com/user-attachments/assets/7bc81e41-b9f0-47d9-aa75-6c1270538d0b)
+
+Với đường dẫn: Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist
+Nó ghi lại các hoạt động của người dùng như mở tập tin, chạy chương trình, hoặc thực hiện các tác vụ khác trên hệ thống.
+ ![image](https://github.com/user-attachments/assets/b972dea6-7be3-4278-9efb-82a0fbf8d13c)
+
+Thông tin trong UserAssist thường bao gồm dữ liệu về số lần một ứng dụng đã được chạy, thời gian cuối cùng mở ứng dụng đó
+ 
+![image](https://github.com/user-attachments/assets/8fa5e79b-42fe-43c0-9307-8cdbf66c127e)
