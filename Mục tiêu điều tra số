@@ -1,0 +1,45 @@
+Mục tiêu và ý nghĩa của điều tra số - Digital Forensics(Pháp y)
+
+Thu thập và phân tích các bằng chứng số trong các vụ việc( hình sự, sự cố an ninh an toàn thông tin)
+để tìm ra nguyên nhân gốc rễ của sự việc, sự cố nhằm tránh đc các sự cố tương tự trong tương lai và 
+đưa ra các kết luận chính xác trong các tình huống pháp lý ( luận tội...)
+
+Phạm vi điều tra số:
+- Phạm vi là nơi mà chúng ta sẽ thực hiện thu thập bằng chứng, là các nơi có chứa dấu vết số( Thông tin mà người 
+dùng , lưu trữ, chuyển tải..)
++ Máy tính, thiết bị di động
++ Mạng 
++ Dữ liệu: Video, hình ảnh, âm thanh, tài liệu,
++ Các phương tiện lưu trữ
+
+Quy trình thực hiện
+1. Xin phép điều tra
+2. Phong tỏa hiện trường( ngắt mạng, cô lập truy cập vật lý,...)
+3. Thu thập bằng chứng số( chụp đĩa, chụp bộ nhớ, lấy log, thu máy tính, tịch thu điện thoại)
+4. Bảo quản và nhân bản bằng chứng
+5. Lập các hồ sơ nhật ký cần thiết( chain of custody)
+6. Tiến hành phân tích, mổ xẻ bằng chứng số
+7. Tiến hành các hoạt động khôi phục, khai phá, rà quét dữ liệu( data carving: lần rò dữ liệu)
+8. Tiếp tục phân tích tổng hợp dữ liệu và đưa ra các kết luận 
+9. Chuẩn bị báo cáo và trình bày bằng chứng/ kết luận trước các bên liên quan( hoặc trước tòa)
+
+Phải học và rèn luyện gì để trở thành người điều tra số giỏi
+- Phải có kiến thức cá thiết bị số: máy tính, điện thoại, máy in, các thiết bị mạng
+- Phải có kiến thức mạng máy tính: đánh địa chỉ IP, thiết lập DNS, thiết lập tường lửa,...
+- Phải có kiến thức về khoa học máy tính: các dữ liệu nhị phân, cơ chế lưu trữ, các định dạng đĩa
+định dạng file, tổ chức bộ nhớ, các quản lý các tiến trình và nhật ký hệ điều hành...
+- Phải trang bị và biết cách vận dụng các công cụ điều tra số thành thạo:
+	+ Công cụ thu thập
+	+ Công cụ carving, khôi phục dữ liệu
+	+ Công cụ phân tích, đối chiếu, so sánh
+	+ Công cụ bảo quản, niêm phong, ký số
+	+ Công cụ lập báo cáo, trình bày dữ liệu
+- Phải nắm vững các quy tắc, quy trình thực hiện điều tra số đúng quy định, tiêu chuẩn
+- Phải nắm vững luật và các đòi hỏi pháp lý liên quan
+
+- Phải cẩn thận, trung thực và dũng cảm.( Không sợ nội dung phức tạp nhiều con số)
+
+- Phải nắm được các hình thức tội phạm, các vụ việc phổ biến
+- Phải nắm được các ví dụ thành công của công tác điều tra số
+- Nắm được các công cụ mới nhất, các xu hướng mới trong phương pháp cách thức
+	THU THẬP, BẢO QUẢN VÀ PHÂN TÍCH BẰNG CHỨNG
