@@ -1,0 +1,10 @@
+Mã băm là gì
+ - Là vân tay số ‘digital fingerprint’ của dữ liệu 
+ - Là tóm lược của dữ liệu 
+ - Mang đặc trung của dữ liệu dầu vào 
+ - Không thể suy ngược 
+ - Là kết quả của hàm băm, phép trong ngẫu nhiên và lấy đặc trưng
+Sức mạnh của hàm băm 
+- Trích rút đặc trưng dữ liệu 
+ -từ bất cứ khối dữ liệu lớn nhỏ nào
+- Tài liệu đầu vào khac snhau mã băm đầu ra khác nhau
